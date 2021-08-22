@@ -1,7 +1,7 @@
 # Awesome Omics
 A collection of bioinformatic tools for the analysis of omics data.
 
-Motivated by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), and helping others with a centralized location of awesome tools for analyzing your precious data!
+Motivated by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), and help graduate students/post-docs/researchers with a curated list of awesome tools for analyzing your precious data!
 
 Since "OMICS" encompass a broad spectrum, the awesome-omics collection is splitted by disciplines (e.g., metagenomics) and sections (e.g., quality control, annotation, etc.) to provide an idea of the general use for the tool. If your awesome tool can be used in more than one discipline, then make sure to capture it on your contribution.
 
