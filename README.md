@@ -11,6 +11,7 @@ Since "OMICS" encompass a broad spectrum, the awesome-omics collection is splitt
   * [Assembly](METAGENOMICS.md#assembly)
   * [Annotation](METAGENOMICS.md#annotation)
 * [Metatranscriptomics](METATRANSCRIPTOMICS.md)
+  * [Alignment](METATRANSCRIPTOMICS.md#alignment)
   * [Quality Control](METATRANSCRIPTOMICS.md#quality-control)
   * [Assembly](METATRANSCRIPTOMICS.md#assembly)
   * [Annotation](METATRANSCRIPTOMICS.md#annotation)
