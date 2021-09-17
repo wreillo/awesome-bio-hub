@@ -18,4 +18,4 @@ Since "OMICS" encompass a broad spectrum, the awesome-omics collection is splitt
 
 
 ## Contributions
-👾 Soon contributions via Twitter. In the meantime,please make sure to follow the [contribution guidelines](CONTRIBUTIONS.md).
+👾 Soon contributions via Twitter. In the meantime, please make sure to follow the [contribution guidelines](CONTRIBUTIONS.md).
