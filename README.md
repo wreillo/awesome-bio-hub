@@ -1,9 +1,8 @@
-# Awesome Omics
-A collection of bioinformatic tools for the analysis of omics data.
+## BioHub
+BioHub is an integrated collection of bioinformatics tools for the analysis of biological data.
 
-Analyzing OMICS data can be challenging and even more when not knowing which bioinformatic tool to use. In an effort to help graduate students/post-docs/researchers, this effort was established. Also, the [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python) repositories served as a motivation.
+Analyzing biological data can be challenging when not knowing which bioinformatics tool to use. This repository aims to consolidate information from GitHub and other public sources while acknowledging the source.The [Awesome](https://github.com/sindresorhus/awesome) repositories served as a motivation for this hub.
 
-Since "OMICS" encompass a broad spectrum, the awesome-omics collection is splitted by disciplines (e.g., metagenomics) and sections (e.g., quality control, annotation, etc.) to provide an idea of the general use for the tool. If the awesome tool can be used in more than one discipline, then make sure to capture it on your contribution.
 
 ## Disciplines 
 * [Metagenomics](METAGENOMICS.md)
@@ -18,4 +17,6 @@ Since "OMICS" encompass a broad spectrum, the awesome-omics collection is splitt
 
 
 ## Contributions
+❗ To provide a general idea, the BioHub collection is categorized by discipline.
+
 👾 Soon contributions via Twitter. In the meantime, please make sure to follow the [contribution guidelines](CONTRIBUTIONS.md).
