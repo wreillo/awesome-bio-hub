@@ -1,7 +1,7 @@
 ## BioHub
 BioHub is an integrated collection of bioinformatics tools for the analysis of biological data.
 
-Analyzing biological data can be challenging when not knowing which bioinformatics tool to use. This repository aims to consolidate information from GitHub and other public sources while acknowledging the source.The [Awesome](https://github.com/sindresorhus/awesome) repositories served as a motivation for this hub.
+This repository aims to consolidate information from GitHub and other public sources. The [Awesome](https://github.com/sindresorhus/awesome) repositories served as a motivation for this hub.
 
 
 ## Disciplines 
