@@ -19,4 +19,4 @@ This repository aims to consolidate information from GitHub and other public sou
 ## Contributions
 ❗ To provide a general idea, the BioHub collection is categorized by discipline.
 
-👾 Soon contributions via Twitter. In the meantime, please make sure to follow the [contribution guidelines](CONTRIBUTIONS.md).
+👾Please make sure to follow the [contribution guidelines](CONTRIBUTIONS.md).
